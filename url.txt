@@ -1,0 +1,7 @@
+프로토콜://호스트:포트/path?query string
+https://opentutorials.org:3000/main?id=html&page=12
+
+포트 - 클라이언트가 통신할 서버의 포트 번호
+웹서버의 기본 포트 번호 80
+
+쿼리스트링의 시작은 ?로
